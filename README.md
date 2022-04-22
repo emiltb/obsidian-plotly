@@ -1,5 +1,5 @@
 # obsidian-plotly
-Obsidian plugin, which allow user to embed Plotly charts into markdown notes.
+Obsidian plugin, which allow user to embed Plotly charts into markdown notes. This is a fork of Dmytro-Shulha/obsidian-plotly which aims to automatically match the current theming in obsidian more closely, for a more natural embedding of charts. 
 
 # Usage
 ## Basic (using plotly block)
